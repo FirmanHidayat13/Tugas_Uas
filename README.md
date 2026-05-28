@@ -48,11 +48,17 @@ Program berbasis Java yang digunakan untuk mengelola data nilai mahasiswa secara
 # Algoritma yang Digunakan
 
 | Fitur | Algoritma |
+
 | Cari Nama | Sequential Search |
+
 | Cari ID | Binary Search |
+
 | Cari Prodi | Sequential Search |
+
 | Sort ID | Quick Sort |
+
 | Sort Nama | Quick Sort |
+
 | Sort Nilai | Quick Sort |
 
 
@@ -73,10 +79,15 @@ Nilai Akhir = (Tugas × 0.3) + (UTS × 0.3) + (UAS × 0.4)
 Grade:
 
 | Nilai | Grade |
+
 | ≥ 85 | A |
+
 | ≥ 75 | B |
+
 | ≥ 65 | C |
+
 | ≥ 50 | D |
+
 | < 50 | E |
 
 Status:
