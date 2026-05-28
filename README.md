@@ -22,7 +22,7 @@ Program berbasis Java yang digunakan untuk mengelola data nilai mahasiswa secara
 - Cari ID → Binary Search
 - Cari Program Studi → Sequential Search
 
-## 📊 Sorting Data
+## Sorting Data
 - Sort ID → Quick Sort
 - Sort Nama → Quick Sort
 - Sort Nilai → Quick Sort
@@ -107,8 +107,11 @@ Password : 123
 # File Project
 
 | File | Fungsi |
+
 | `SistemManajemenPenilianMahasiswa.java` | Source code utama |
+
 | `data.txt` | Penyimpanan data mahasiswa |
+
 | `README.md` | Dokumentasi project |
 
 # Konsep Pemrograman yang Digunakan
