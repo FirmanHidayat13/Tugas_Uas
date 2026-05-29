@@ -155,9 +155,3 @@ Password : 123
 12. Restore Data
 13. Logout
 0. Keluar
-
-# Author
-
-**Firman Hidayat**
-
-Project Struk
